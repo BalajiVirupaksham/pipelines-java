@@ -31,3 +31,4 @@ Microsoft and any contributors reserve all others rights, whether under their re
 or trademarks, whether by implication, estoppel or otherwise.
 
 # Please add status badge for customers to know the build quality checks are present in pipeline. badge to be copied
+# just validate pipeline on new PR
